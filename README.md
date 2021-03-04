@@ -1,5 +1,11 @@
 # SelfBuilds_macOS_arm64  
 Here are some pre-built frameworks, tools, python packages for Apple Silicon (macOS ARM64).  
+
+|  Name  |         Xcode Frameworks          |      Python3 Packages       |    Pre-built Binaries    |
+| :----: | :-------------------------------: | :-------------------------: | :-----------------------:|
+| OpenCV | *[Download][opencv.xcframeworls]* | *[Download][opencv-python]* | ~~*[Download][opencv]*~~ |
+|   Qt   |                                   |    *[Download][pyside6]*    |     *[Download][qt]*     |  
+
 * [OpenCV](https://github.com/SloneWang/SelfBuilds_macOS_arm64#opencv)  
 * [Qt](https://github.com/SloneWang/SelfBuilds_macOS_arm64#qt)  
 
