@@ -1,7 +1,7 @@
-# SelfBuilds_macOS_ARM64  
+# SelfBuilds_macOS_arm64  
 Here are some pre-built frameworks, tools, python packages for Apple Silicon (macOS ARM64).  
-* [OpenCV](https://github.com/SloneWang/SelfBuilds_macOS_ARM64#opencv)  
-* [Qt](https://github.com/SloneWang/SelfBuilds_macOS_ARM64#qt)  
+* [OpenCV](https://github.com/SloneWang/SelfBuilds_macOS_arm64#opencv)  
+* [Qt](https://github.com/SloneWang/SelfBuilds_macOS_arm64#qt)  
 
 ## OpenCV  
 
@@ -93,10 +93,10 @@ Platforms and architectures:
 
 [^_^]:Links
 [^_^]:OpenCV
-[opencv.xcframeworls]:https://github.com/SloneWang/SelfBuilds_macOS_ARM64/releases/download/opencv451/opencv2.xcframework.7z
-[opencv-python]:https://github.com/SloneWang/SelfBuilds_macOS_ARM64/releases/download/opencv451/opencv_python-4.5.1.48-cp38-cp38-macosx_11_0_arm64.whl
-[opencv]:https://github.com/SloneWang/SelfBuilds_macOS_ARM64/releases/download/opencv451/OpenCV-4.5.1-macosx_11_0_arm64.7z
+[opencv.xcframeworls]:https://github.com/SloneWang/SelfBuilds_macOS_arm64/releases/download/opencv451/opencv2.xcframework.7z
+[opencv-python]:https://github.com/SloneWang/SelfBuilds_macOS_arm64/releases/download/opencv451/opencv_python-4.5.1.48-cp38-cp38-macosx_11_0_arm64.whl
+[opencv]:https://github.com/SloneWang/SelfBuilds_macOS_arm64/releases/download/opencv451/OpenCV-4.5.1-macosx_11_0_arm64.7z
 [apple.numpy]:https://github.com/apple/tensorflow_macos/releases/download/v0.1alpha3/tensorflow_macos-0.1alpha3.tar.gz
 [^_^]:Qt
-[pyside6]:https://github.com/SloneWang/SelfBuilds_macOS_ARM64/releases/download/qt601/PySide-6.0.1-cp38-macosx_11_0_arm64.7z
-[qt]:https://github.com/SloneWang/SelfBuilds_macOS_ARM64/releases/download/qt601/Qt-6.0.1-macosx_11_0_arm64.7z
+[pyside6]:https://github.com/SloneWang/SelfBuilds_macOS_arm64/releases/download/qt601/PySide-6.0.1-cp38-macosx_11_0_arm64.7z
+[qt]:https://github.com/SloneWang/SelfBuilds_macOS_arm64/releases/download/qt601/Qt-6.0.1-macosx_11_0_arm64.7z
