@@ -20,7 +20,7 @@ Platforms and architectures:
   * Mac Catalyst: x86_64, arm64  
 
 ### Python3 Packages *[Download][opencv-python]*  
-> opencv-python
+> opencv-python  
 > Version: 4.5.1.48  
 
 System Requirements:  
@@ -39,7 +39,7 @@ Installation:
   4. Download this, goto download_dir, and run `pip install opencv_python-4.5.1.48-cp38-cp38-macosx_11_0_arm64.whl`  
 
 ### ~~Pre-built Binaries with Extra Modules *[Download][opencv]*~~  
-> opencv
+> opencv  
 > opencv_contrib Included  
 > Dynamic Link Libraries  
 > Python2.7 Supported  
@@ -57,7 +57,7 @@ Platforms and architectures:
 ## Qt  
 
 ### Python3 Packages *[Download][pyside6]*  
-> PySide6, shiboken6, shiboken6-generator
+> PySide6, shiboken6, shiboken6-generator  
 > Version: 6.0.1  
 
 System Requirements:  
@@ -70,10 +70,10 @@ Platforms and architectures:
 
 Installation:  
   1. Download, and extract;  
-  2. Open Terminal.app in the directory, and run `pip install *.whl`   
+  2. Open Terminal.app in the directory, and run `pip install *.whl`  
 
 ### Pre-built Binaries *[Download][qt]*  
-> qt
+> qt  
 > Version: 6.0.1  
 
 System Requirements:  
