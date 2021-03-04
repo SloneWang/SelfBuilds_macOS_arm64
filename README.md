@@ -3,7 +3,7 @@ Here are some pre-built frameworks, tools, python packages for Apple Silicon (ma
 
 ## OpenCV  
 
-### XCode Frameworks *[Download][opencv.xcframeworls]*  
+### Xcode Frameworks *[Download][opencv.xcframeworls]*  
 Version: `4.5.1`  
 
 System Requirements:  
